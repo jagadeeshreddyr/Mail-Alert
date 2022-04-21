@@ -4,8 +4,7 @@
 
 2 - Contains two folder config where you can need to the configuration in config.ini of email 
 
-3 - Main folder contains the _mail_alert.py file you can change the subject as needed and need to change the location of the\
-    location of config file of your directory. 
+3 - Main folder contains the _mail_alert.py file you can change the subject as needed and need to change the location of config file of your directory. 
 
 4 - Main file used for testing of code, I have used a basic code to test. 
 
