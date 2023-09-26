@@ -4,7 +4,11 @@
 
 The Mail-Alert project simplifies error tracking by allowing you to receive email notifications in Python when an exception is raised in your code. This eliminates the need for complex logger setups and ensures that you stay informed about critical issues in your applications.
 
+<<<<<<< HEAD
 ## Project Structure
+=======
+3 - Main folder contains the _mail_alert.py file you can change the subject as needed and need to change the location of config file of your directory. 
+>>>>>>> f4a429a2a2a61e30ec599e98693839ac6a430733
 
 1. **Config Folder:** Contains the necessary configuration files, primarily `config.ini`, where you can customize your email settings.
 
